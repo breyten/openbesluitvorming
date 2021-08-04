@@ -31,6 +31,11 @@ const otherApps: AppType[] = [
     description: "Zoek stukken van de raad en staten bij het laatste nieuws",
     url: "https://www.voordathetnieuwswas.nl/",
   },
+  {
+    name: "Jodal",
+    description: "Lokaal politiek nieuws uit diverse bronnen, samengebracht in een gebruikersvriendelijk platform.",
+    url: "https://www.jodal.nl/"
+  }
 ]
 
 const Home = () => {
